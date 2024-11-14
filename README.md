@@ -1,16 +1,13 @@
-## Hi there 👋
+## Merhaba 👋
+Ben omerffae! Kod yazmayı ve yeni teknolojiler öğrenmeyi seven bir geliştiriciyim. Projelerimde en iyi kullanıcı deneyimini sağlamayı hedeflerim. Şu anda yeni teknolojiler öğrenip projelerimi genişletiyorum.
 
-<!--
-**omerffae/omerffae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Şu anda üzerinde çalıştığım projeler: **Mobil uygulamalar, web arayüzleri**
+- 🌱 Şu anda öğreniyorum: **React Native, Next.js, TypeScript**
+- 👯 İş birliği yapmak istiyorum: **Açık kaynak projeler, mobil ve web uygulamaları**
+- 🤔 Yardım arıyorum: **Gelişmiş bot entegrasyonları, mobil geliştirme sorunları**
+- 💬 Bana sorabilirsiniz: **JavaScript, TypeScript, React, Discord.js, Front-End geliştirme**
+- 📫 Bana ulaşın: **omerekim825@gmail.com**
 
-Here are some ideas to get you started:
+### Yetkinliklerim
+Mobil (iOS & Android) | Front-end | React | React Native | HTML | CSS | Bootstrap | JavaScript | React - Redux | TypeScript | Next.js | Sass/Scss
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
