@@ -4,7 +4,6 @@ Ben omerffae! Kod yazmayı ve yeni teknolojiler öğrenmeyi seven bir geliştiri
 - 🔭 Şu anda üzerinde çalıştığım projeler: **Mobil uygulamalar, web arayüzleri**
 - 🌱 Şu anda öğreniyorum: **React Native, Next.js, TypeScript**
 - 👯 İş birliği yapmak istiyorum: **Açık kaynak projeler, mobil ve web uygulamaları**
-- 🤔 Yardım arıyorum: **Gelişmiş bot entegrasyonları, mobil geliştirme sorunları**
 - 💬 Bana sorabilirsiniz: **JavaScript, TypeScript, React, Front-End geliştirme**
 - 📫 Bana ulaşın: **omerekim825@gmail.com**
 
