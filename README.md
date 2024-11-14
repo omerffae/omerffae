@@ -8,6 +8,6 @@ Ben omerffae! Kod yazmayı ve yeni teknolojiler öğrenmeyi seven bir geliştiri
 - 💬 Bana sorabilirsiniz: **JavaScript, TypeScript, React, Discord.js, Front-End geliştirme**
 - 📫 Bana ulaşın: **omerekim825@gmail.com**
 
-### Yetkinliklerim
+### Alanım
 Mobil (iOS & Android) | Front-end | React | React Native | HTML | CSS | Bootstrap | JavaScript | React - Redux | TypeScript | Next.js | Sass/Scss
 
