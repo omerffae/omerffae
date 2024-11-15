@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ömer Ekin</h1>
-<h3 align="center">A front-end developer based in Turkey</h3>
+<h3 align="center">A front-end react developer based in Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerffae&label=Profile%20Views&color=0e75b6&style=flat" alt="omerffae" /> </p>
 
