@@ -1,28 +1,28 @@
-<h1 align="center">Merhaba 👋, Ben Ömer Ekin</h1>
-<h3 align="center">Türkiye'de Front-End üzerine çalışan bir geliştiriciyim</h3>
+<h1 align="center">Hello 👋, I'm Ömer Ekin</h1>
+<h3 align="center">A front-end developer based in Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omerffae&label=Profil%20Ziyaretleri&color=0e75b6&style=flat" alt="omerffae" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omerffae&label=Profile%20Views&color=0e75b6&style=flat" alt="omerffae" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerffae" alt="omerffae" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/omerffae" target="blank"><img src="https://img.shields.io/twitter/follow/omerffae?logo=twitter&style=for-the-badge" alt="omerffae" /></a> </p>
 
-- 🔭 **Şu anda üzerinde çalıştığım projeler:** Mobil uygulamalar, web arayüzleri  
-- 🌱 **Şu anda öğreniyorum:** React Native, Next.js, TypeScript  
-- 👯 **İş birliği yapmak istiyorum:** Açık kaynak projeler, mobil ve web uygulamaları  
-- 💬 **Bana sorabilirsiniz:** JavaScript, TypeScript, React, Front-End geliştirme  
-- 📫 **Bana ulaşabileceğiniz adres:** omerekim825@gmail.com  
+- 🔭 **Current Projects:** Mobile apps, web interfaces  
+- 🌱 **Currently Learning:** React Native, Next.js, TypeScript  
+- 👯 **Looking to Collaborate On:** Open-source projects, mobile and web applications  
+- 💬 **Ask me about:** JavaScript, TypeScript, React, Front-End Development  
+- 📫 **How to reach me:** omerekim825@gmail.com  
 
-**Mobil (iOS & Android) | Front-end | React | React Native | HTML | CSS | Bootstrap | JavaScript | React - Redux | TypeScript | Next.js | Sass/Scss**
+**Mobile (iOS & Android) | Front-end | React | React Native | HTML | CSS | Bootstrap | JavaScript | React - Redux | TypeScript | Next.js | Sass/Scss**
 
-<h3 align="left">Benimle İletişime Geçin:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omerffae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omerffae" height="30" width="40" /></a>
 <a href="https://instagram.com/omerffae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerffae" height="30" width="40" /></a>
 <a href="https://discord.gg/omerffae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omerffae" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -39,5 +39,4 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerffae&show_icons=true&locale=tr&layout=compact" alt="omerffae" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerffae&show_icons=true&locale=en&layout=compact" alt="omerffae" /></p>
