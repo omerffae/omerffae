@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerffae" alt="omerffae" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/omerffae" target="blank"><img src="https://img.shields.io/twitter/follow/omerffae?logo=twitter&style=for-the-badge" alt="omerffae" /></a> </p>
-
 - 🔭 **Current Projects:** Mobile apps, web interfaces  
 - 🌱 **Currently Learning:** React Native, Next.js, TypeScript  
 - 👯 **Looking to Collaborate On:** Open-source projects, mobile and web applications  
