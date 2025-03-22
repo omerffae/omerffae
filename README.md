@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerffae&label=Profile%20Views&color=0e75b6&style=flat" alt="omerffae" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerffae" alt="omerffae" /></a> </p>
-
 - 🔭 **Current Projects:** Mobile apps, web interfaces  
 - 🌱 **Currently Learning:** React Native, Next.js, TypeScript  
 - 👯 **Looking to Collaborate On:** Open-source projects, mobile and web applications  
